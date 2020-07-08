@@ -1,5 +1,6 @@
 Electron Boilerplate for creating desktop apps with:
 * React
+* React Bootstrap
 * Typescript 
 * SCSS
 * Husky
