@@ -53,8 +53,8 @@
     }
   },
   "build": {
-    "productName": "HasteAIO",
-    "appId": "com.hasterobotics.HasteAIO",
+    "productName": "",
+    "appId": "",
     "mac": {
       "category": "your.app.category.type"
     },
@@ -78,8 +78,8 @@
     "url": ""
   },
   "author": {
-    "name": "Haste Robotics",
-    "email": "support@hasterobotics.com"
+    "name": "",
+    "email": ""
   },
   "license": "",
   "bugs": {
